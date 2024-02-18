@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bikerental/static/css/main.c401e83e.css",
-    "main.js": "/bikerental/static/js/main.3ad24421.js",
+    "main.css": "/bikerental/static/css/main.ecea9325.css",
+    "main.js": "/bikerental/static/js/main.1da82159.js",
     "static/js/592.73f65213.chunk.js": "/bikerental/static/js/592.73f65213.chunk.js",
     "index.html": "/bikerental/index.html",
-    "main.c401e83e.css.map": "/bikerental/static/css/main.c401e83e.css.map",
-    "main.3ad24421.js.map": "/bikerental/static/js/main.3ad24421.js.map",
+    "main.ecea9325.css.map": "/bikerental/static/css/main.ecea9325.css.map",
+    "main.1da82159.js.map": "/bikerental/static/js/main.1da82159.js.map",
     "592.73f65213.chunk.js.map": "/bikerental/static/js/592.73f65213.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c401e83e.css",
-    "static/js/main.3ad24421.js"
+    "static/css/main.ecea9325.css",
+    "static/js/main.1da82159.js"
   ]
 }
